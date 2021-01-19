@@ -1,0 +1,19 @@
+{
+  "name": "crown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanFredriksson/Crown.git"
+  },
+  "author": "RohanFredriksson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanFredriksson/Crown/issues"
+  },
+  "homepage": "https://github.com/RohanFredriksson/Crown#readme"
+}
