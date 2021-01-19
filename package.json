@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RohanFredriksson/Crown/issues"
   },
-  "homepage": "https://github.com/RohanFredriksson/Crown#readme"
+  "homepage": "https://github.com/RohanFredriksson/Crown#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
 }
