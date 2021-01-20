@@ -16,5 +16,7 @@
     "url": "https://github.com/RohanFredriksson/Crown/issues"
   },
   "homepage": "https://github.com/RohanFredriksson/Crown#readme",
-  "dependencies": {}
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
