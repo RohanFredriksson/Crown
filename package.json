@@ -16,7 +16,5 @@
     "url": "https://github.com/RohanFredriksson/Crown/issues"
   },
   "homepage": "https://github.com/RohanFredriksson/Crown#readme",
-  "dependencies": {
-    "mongodb": "^3.6.3"
-  }
+  "dependencies": {}
 }
