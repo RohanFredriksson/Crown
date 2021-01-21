@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "run": "node main.js"
+    "run": "node main.js",
+    "dev": "node dev.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/RohanFredriksson/Crown#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "mongodb": "^3.6.3"
   }
 }

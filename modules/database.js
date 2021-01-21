@@ -1,18 +1,22 @@
-var fs = require('fs')
+const MongoClient = require('mongodb').MongoClient;
+const url = "mongodb://localhost:27017/crown";
+const collection = "user_data";
 
 module.exports = {
 
-    start(path) {
-        
-        template = {
-            id : "template"
-        }
+    template: {
+
+        id_:null,
+        username:null,
+
 
     },
 
-    addFolder(Folder) {
+    read(id) {
 
-        fs.
+    },
+
+    write(id) {
 
     },
 
